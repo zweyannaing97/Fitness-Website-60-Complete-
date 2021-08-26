@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153" height="33" viewBox="0 0 153 33">
+  <g id="Group_130" data-name="Group 130" transform="translate(-144 -45)">
+    <text id="BeStrong" transform="translate(188 72)" fill="#13191a" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Be</tspan><tspan y="0" fill="#00a2ff">Strong</tspan></text>
+    <g id="Group_109" data-name="Group 109" transform="translate(144 53)">
+      <rect id="Rectangle_132" data-name="Rectangle 132" width="6" height="21" rx="3" transform="translate(11)"/>
+      <rect id="Rectangle_133" data-name="Rectangle 133" width="5" height="17" rx="2.5" transform="translate(5 2)" fill="#5eb6e1"/>
+      <path id="Rectangle_134" data-name="Rectangle 134" d="M4.5,0H5A0,0,0,0,1,5,0V9A0,0,0,0,1,5,9H4.5A4.5,4.5,0,0,1,0,4.5v0A4.5,4.5,0,0,1,4.5,0Z" transform="translate(0 6)"/>
+      <rect id="Rectangle_135" data-name="Rectangle 135" width="26" height="9" transform="translate(14 6)"/>
+    </g>
+  </g>
+</svg>
